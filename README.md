@@ -1,2 +1,2 @@
-# goarea
+# goArea
 Curso básico de Go
